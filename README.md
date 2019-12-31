@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/parthnan/MSPaint-in-Android.svg)](http://hits.dwyl.com/parthnan/MSPaint-in-Android)
+
 # Paint Android Application
 Developing an MSPaint-like application for Android. In this first stage, drawing on a canvas with customizable brush sizes and colors,alongwith eraser option has been implemented.
 
