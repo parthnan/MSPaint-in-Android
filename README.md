@@ -5,4 +5,4 @@ Developing an MSPaint-like application for Android. In this first stage, drawing
 
 The UI is pretty self-explanatory, The "Color" button switches the brush from Black to Red to Eraser. The top left is the brush pixel size. Below is the test on Pixel 2 emulator.
 
-![alt text](https://raw.githubusercontent.com/parthnan/MSPaint-in-Android/master/MSPaintDemo.png)
+<img src="https://raw.githubusercontent.com/parthnan/MSPaint-in-Android/master/MSPaintDemo.png" width="400px" align="middle">
